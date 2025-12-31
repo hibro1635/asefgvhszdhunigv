@@ -3,10 +3,6 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://api.011200.xyz",
-                "description": ""
-            },
-            {
                 "url": "https://api2.011200.xyz",
                 "description": ""
             },
@@ -17,3 +13,4 @@
         ]
     }
 }
+
